@@ -1,0 +1,3930 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-13T18:41:47.337+05:45
+  initializedAtString: 2020-05-13T18:20:37.140+05:45
+  log:
+  - commitID: ab506495df08638fd8c112a358081673c145cc22
+    mergeA: 
+    mergeB: 
+    authorName: Kushal
+    authorEmail: kushal-shrestha@hotmail.com
+    commitEmail: kushal-shrestha@hotmail.com
+    commitName: Kushal
+    summary: p5
+    description: Game Done!
+    timeString: 2020-05-13T18:40:42.000+05:45
+    commitTimeString: 2020-05-13T18:40:42.000+05:45
+    changes:
+    - path: Library\Collab\Base\ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\Library\Collab\Base\ProjectSettings\ProjectSettings.asset
+      projectPath: Library\Collab\Base\ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_da8d78bf-71b3-477f-a8b5-ee67ff196bc9.txt
+      fullPath: D:\Docs\Unity\10-Orbits\Library\Collab\CollabSnapshot_da8d78bf-71b3-477f-a8b5-ee67ff196bc9.txt
+      projectPath: Library\Collab\CollabSnapshot_da8d78bf-71b3-477f-a8b5-ee67ff196bc9.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Collab\Download\ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\Library\Collab\Download\ProjectSettings\ProjectSettings.asset
+      projectPath: Library\Collab\Download\ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Collab\Original\ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\Library\Collab\Original\ProjectSettings\ProjectSettings.asset
+      projectPath: Library\Collab\Original\ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: ac63a4d7ba71023ffaa5ec660813a6f146fa5efe
+    mergeA: 
+    mergeB: 
+    authorName: Kushal
+    authorEmail: kushal-shrestha@hotmail.com
+    commitEmail: kushal-shrestha@hotmail.com
+    commitName: Kushal
+    summary: p4
+    description: Game Done!
+    timeString: 2020-05-13T18:37:59.000+05:45
+    commitTimeString: 2020-05-13T18:37:59.000+05:45
+    changes:
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: D:\Docs\Unity\10-Orbits\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 2cd1c9de2122b7f1be271a572da26323e3a77ae6
+    mergeA: 
+    mergeB: 
+    authorName: Kushal
+    authorEmail: kushal-shrestha@hotmail.com
+    commitEmail: kushal-shrestha@hotmail.com
+    commitName: Kushal
+    summary: p3
+    description: Game Done!
+    timeString: 2020-05-13T18:37:05.000+05:45
+    commitTimeString: 2020-05-13T18:37:05.000+05:45
+    changes:
+    - path: Packages\manifest.json
+      fullPath: D:\Docs\Unity\10-Orbits\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: D:\Docs\Unity\10-Orbits\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: D:\Docs\Unity\10-Orbits\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 18f5a5758540d3a188e1ee008ea3459959d4b4fb
+    mergeA: 
+    mergeB: 
+    authorName: Kushal
+    authorEmail: kushal-shrestha@hotmail.com
+    commitEmail: kushal-shrestha@hotmail.com
+    commitName: Kushal
+    summary: Game Done p2
+    description: Game Done 1!!!!!!!! Migusttaaaaaaa
+    timeString: 2020-05-13T18:35:08.000+05:45
+    commitTimeString: 2020-05-13T18:35:08.000+05:45
+    changes:
+    - path: Assets\Fonts.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro.ttf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro.ttf
+      projectPath: Assets\Fonts\Anonymous_Pro.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro.ttf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro.ttf.meta
+      projectPath: Assets\Fonts\Anonymous_Pro.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro_B.ttf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro_B.ttf
+      projectPath: Assets\Fonts\Anonymous_Pro_B.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro_B.ttf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro_B.ttf.meta
+      projectPath: Assets\Fonts\Anonymous_Pro_B.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro_BI.ttf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro_BI.ttf
+      projectPath: Assets\Fonts\Anonymous_Pro_BI.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro_BI.ttf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro_BI.ttf.meta
+      projectPath: Assets\Fonts\Anonymous_Pro_BI.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro_I.ttf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro_I.ttf
+      projectPath: Assets\Fonts\Anonymous_Pro_I.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Anonymous_Pro_I.ttf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Anonymous_Pro_I.ttf.meta
+      projectPath: Assets\Fonts\Anonymous_Pro_I.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Bubblegum.ttf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Bubblegum.ttf
+      projectPath: Assets\Fonts\Bubblegum.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Bubblegum.ttf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Bubblegum.ttf.meta
+      projectPath: Assets\Fonts\Bubblegum.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Exo2-Black.otf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Exo2-Black.otf
+      projectPath: Assets\Fonts\Exo2-Black.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Exo2-Black.otf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Exo2-Black.otf.meta
+      projectPath: Assets\Fonts\Exo2-Black.otf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Exo2-Bold.otf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Exo2-Bold.otf
+      projectPath: Assets\Fonts\Exo2-Bold.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Exo2-Bold.otf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Exo2-Bold.otf.meta
+      projectPath: Assets\Fonts\Exo2-Bold.otf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Exo2-Medium.otf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Exo2-Medium.otf
+      projectPath: Assets\Fonts\Exo2-Medium.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Exo2-Medium.otf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\Exo2-Medium.otf.meta
+      projectPath: Assets\Fonts\Exo2-Medium.otf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA BLACK.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA BLACK.OTF
+      projectPath: Assets\Fonts\PROXIMA NOVA BLACK.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA BLACK.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA BLACK.OTF.meta
+      projectPath: Assets\Fonts\PROXIMA NOVA BLACK.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA BOLD.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA BOLD.OTF
+      projectPath: Assets\Fonts\PROXIMA NOVA BOLD.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA BOLD.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA BOLD.OTF.meta
+      projectPath: Assets\Fonts\PROXIMA NOVA BOLD.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA EXTRABOLD.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA EXTRABOLD.OTF
+      projectPath: Assets\Fonts\PROXIMA NOVA EXTRABOLD.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA EXTRABOLD.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA EXTRABOLD.OTF.meta
+      projectPath: Assets\Fonts\PROXIMA NOVA EXTRABOLD.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA THIN.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA THIN.OTF
+      projectPath: Assets\Fonts\PROXIMA NOVA THIN.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMA NOVA THIN.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMA NOVA THIN.OTF.meta
+      projectPath: Assets\Fonts\PROXIMA NOVA THIN.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-LIGHT.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-LIGHT.OTF
+      projectPath: Assets\Fonts\PROXIMANOVA-LIGHT.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-LIGHT.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-LIGHT.OTF.meta
+      projectPath: Assets\Fonts\PROXIMANOVA-LIGHT.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-LIGHTITALIC.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-LIGHTITALIC.OTF
+      projectPath: Assets\Fonts\PROXIMANOVA-LIGHTITALIC.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-LIGHTITALIC.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-LIGHTITALIC.OTF.meta
+      projectPath: Assets\Fonts\PROXIMANOVA-LIGHTITALIC.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-REGULAR.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-REGULAR.OTF
+      projectPath: Assets\Fonts\PROXIMANOVA-REGULAR.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-REGULAR.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-REGULAR.OTF.meta
+      projectPath: Assets\Fonts\PROXIMANOVA-REGULAR.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-SEMIBOLD.OTF
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-SEMIBOLD.OTF
+      projectPath: Assets\Fonts\PROXIMANOVA-SEMIBOLD.OTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\PROXIMANOVA-SEMIBOLD.OTF.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Fonts\PROXIMANOVA-SEMIBOLD.OTF.meta
+      projectPath: Assets\Fonts\PROXIMANOVA-SEMIBOLD.OTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images.meta
+      projectPath: Assets\Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\10 Orbit logo.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\10 Orbit logo.png
+      projectPath: Assets\Images\10 Orbit logo.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\10 Orbit logo.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\10 Orbit logo.png.meta
+      projectPath: Assets\Images\10 Orbit logo.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\10Orbit background 1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\10Orbit background 1.png
+      projectPath: Assets\Images\10Orbit background 1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\10Orbit background 1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\10Orbit background 1.png.meta
+      projectPath: Assets\Images\10Orbit background 1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Arrow.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Arrow.png
+      projectPath: Assets\Images\Arrow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Arrow.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Arrow.png.meta
+      projectPath: Assets\Images\Arrow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Blank.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Blank.png
+      projectPath: Assets\Images\Blank.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Blank.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Blank.png.meta
+      projectPath: Assets\Images\Blank.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Circle.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Circle.png
+      projectPath: Assets\Images\Circle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Circle.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Circle.png.meta
+      projectPath: Assets\Images\Circle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Frame.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Frame.png
+      projectPath: Assets\Images\Frame.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Frame.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Frame.png.meta
+      projectPath: Assets\Images\Frame.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Fuel icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Fuel icon.png
+      projectPath: Assets\Images\Fuel icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Fuel icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Fuel icon.png.meta
+      projectPath: Assets\Images\Fuel icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Gear.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Gear.png
+      projectPath: Assets\Images\Gear.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Gear.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Gear.png.meta
+      projectPath: Assets\Images\Gear.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Glow Star Icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Glow Star Icon.png
+      projectPath: Assets\Images\Glow Star Icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Glow Star Icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Glow Star Icon.png.meta
+      projectPath: Assets\Images\Glow Star Icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Glow.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Glow.png
+      projectPath: Assets\Images\Glow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Glow.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Glow.png.meta
+      projectPath: Assets\Images\Glow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Hourglass.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Hourglass.png
+      projectPath: Assets\Images\Hourglass.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Hourglass.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Hourglass.png.meta
+      projectPath: Assets\Images\Hourglass.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LAUNCH BUTTON t.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LAUNCH BUTTON t.png
+      projectPath: Assets\Images\LAUNCH BUTTON t.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LAUNCH BUTTON t.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LAUNCH BUTTON t.png.meta
+      projectPath: Assets\Images\LAUNCH BUTTON t.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LAUNCH BUTTON.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LAUNCH BUTTON.png
+      projectPath: Assets\Images\LAUNCH BUTTON.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LAUNCH BUTTON.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LAUNCH BUTTON.png.meta
+      projectPath: Assets\Images\LAUNCH BUTTON.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Launch_circle.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Launch_circle.png
+      projectPath: Assets\Images\Launch_circle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Launch_circle.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Launch_circle.png.meta
+      projectPath: Assets\Images\Launch_circle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LevelIcons.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LevelIcons.png
+      projectPath: Assets\Images\LevelIcons.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LevelIcons.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LevelIcons.png.meta
+      projectPath: Assets\Images\LevelIcons.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LevelIconsf.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LevelIconsf.png
+      projectPath: Assets\Images\LevelIconsf.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\LevelIconsf.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\LevelIconsf.png.meta
+      projectPath: Assets\Images\LevelIconsf.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Main icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Main icon.png
+      projectPath: Assets\Images\Main icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Main icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Main icon.png.meta
+      projectPath: Assets\Images\Main icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Materials.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Materials.meta
+      projectPath: Assets\Images\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Materials\10 Orbit logo.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Materials\10 Orbit logo.mat
+      projectPath: Assets\Images\Materials\10 Orbit logo.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Materials\10 Orbit logo.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Materials\10 Orbit logo.mat.meta
+      projectPath: Assets\Images\Materials\10 Orbit logo.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Materials\Launch_circle.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Materials\Launch_circle.mat
+      projectPath: Assets\Images\Materials\Launch_circle.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Materials\Launch_circle.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Materials\Launch_circle.mat.meta
+      projectPath: Assets\Images\Materials\Launch_circle.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Materials\logo.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Materials\logo.mat
+      projectPath: Assets\Images\Materials\logo.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Materials\logo.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Materials\logo.mat.meta
+      projectPath: Assets\Images\Materials\logo.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Menu icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Menu icon.png
+      projectPath: Assets\Images\Menu icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Menu icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Menu icon.png.meta
+      projectPath: Assets\Images\Menu icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Moosehead.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Moosehead.png
+      projectPath: Assets\Images\Moosehead.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Moosehead.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Moosehead.png.meta
+      projectPath: Assets\Images\Moosehead.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\New backgroud.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\New backgroud.png
+      projectPath: Assets\Images\New backgroud.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\New backgroud.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\New backgroud.png.meta
+      projectPath: Assets\Images\New backgroud.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\New background 2.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\New background 2.png
+      projectPath: Assets\Images\New background 2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\New background 2.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\New background 2.png.meta
+      projectPath: Assets\Images\New background 2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\NormalMap (1).png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\NormalMap (1).png
+      projectPath: Assets\Images\NormalMap (1).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\NormalMap (1).png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\NormalMap (1).png.meta
+      projectPath: Assets\Images\NormalMap (1).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\NormalMap (3).png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\NormalMap (3).png
+      projectPath: Assets\Images\NormalMap (3).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\NormalMap (3).png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\NormalMap (3).png.meta
+      projectPath: Assets\Images\NormalMap (3).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Red.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Red.png
+      projectPath: Assets\Images\Red.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Red.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Red.png.meta
+      projectPath: Assets\Images\Red.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Red.psd
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Red.psd
+      projectPath: Assets\Images\Red.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Red.psd.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Red.psd.meta
+      projectPath: Assets\Images\Red.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Restart_icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Restart_icon.png
+      projectPath: Assets\Images\Restart_icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Restart_icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Restart_icon.png.meta
+      projectPath: Assets\Images\Restart_icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\RingHaloGlow.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\RingHaloGlow.png
+      projectPath: Assets\Images\RingHaloGlow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\RingHaloGlow.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\RingHaloGlow.png.meta
+      projectPath: Assets\Images\RingHaloGlow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Show_target_icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Show_target_icon.png
+      projectPath: Assets\Images\Show_target_icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Show_target_icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Show_target_icon.png.meta
+      projectPath: Assets\Images\Show_target_icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\SliderTrench.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\SliderTrench.png
+      projectPath: Assets\Images\SliderTrench.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\SliderTrench.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\SliderTrench.png.meta
+      projectPath: Assets\Images\SliderTrench.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Soft round.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Soft round.png
+      projectPath: Assets\Images\Soft round.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Soft round.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Soft round.png.meta
+      projectPath: Assets\Images\Soft round.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Solid_circle.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Solid_circle.png
+      projectPath: Assets\Images\Solid_circle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Solid_circle.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Solid_circle.png.meta
+      projectPath: Assets\Images\Solid_circle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\SpeedSlider.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\SpeedSlider.png
+      projectPath: Assets\Images\SpeedSlider.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\SpeedSlider.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\SpeedSlider.png.meta
+      projectPath: Assets\Images\SpeedSlider.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\TestStarBurst.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\TestStarBurst.png
+      projectPath: Assets\Images\TestStarBurst.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\TestStarBurst.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\TestStarBurst.png.meta
+      projectPath: Assets\Images\TestStarBurst.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen.meta
+      projectPath: Assets\Images\Titlescreen.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\Panel.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\Panel.png
+      projectPath: Assets\Images\Titlescreen\Panel.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\Panel.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\Panel.png.meta
+      projectPath: Assets\Images\Titlescreen\Panel.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\PlaneB.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\PlaneB.png
+      projectPath: Assets\Images\Titlescreen\PlaneB.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\PlaneB.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\PlaneB.png.meta
+      projectPath: Assets\Images\Titlescreen\PlaneB.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\PlaneC.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\PlaneC.png
+      projectPath: Assets\Images\Titlescreen\PlaneC.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\PlaneC.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\PlaneC.png.meta
+      projectPath: Assets\Images\Titlescreen\PlaneC.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\TestRender10.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\TestRender10.png
+      projectPath: Assets\Images\Titlescreen\TestRender10.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Titlescreen\TestRender10.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Titlescreen\TestRender10.png.meta
+      projectPath: Assets\Images\Titlescreen\TestRender10.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Trails icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Trails icon.png
+      projectPath: Assets\Images\Trails icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Trails icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Trails icon.png.meta
+      projectPath: Assets\Images\Trails icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Triangle.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Triangle.png
+      projectPath: Assets\Images\Triangle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\Triangle.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\Triangle.png.meta
+      projectPath: Assets\Images\Triangle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\actual logo.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\actual logo.png
+      projectPath: Assets\Images\actual logo.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\actual logo.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\actual logo.png.meta
+      projectPath: Assets\Images\actual logo.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\black.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\black.png
+      projectPath: Assets\Images\black.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\black.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\black.png.meta
+      projectPath: Assets\Images\black.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\fire icon.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\fire icon.png
+      projectPath: Assets\Images\fire icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\fire icon.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\fire icon.png.meta
+      projectPath: Assets\Images\fire icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\logo.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\logo.png
+      projectPath: Assets\Images\logo.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\logo.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\logo.png.meta
+      projectPath: Assets\Images\logo.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\metal panels.jpg
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\metal panels.jpg
+      projectPath: Assets\Images\metal panels.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\metal panels.jpg.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\metal panels.jpg.meta
+      projectPath: Assets\Images\metal panels.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience.meta
+      projectPath: Assets\Images\rocketScience.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\Sat2.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\Sat2.png
+      projectPath: Assets\Images\rocketScience\Sat2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\Sat2.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\Sat2.png.meta
+      projectPath: Assets\Images\rocketScience\Sat2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\Sat3.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\Sat3.png
+      projectPath: Assets\Images\rocketScience\Sat3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\Sat3.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\Sat3.png.meta
+      projectPath: Assets\Images\rocketScience\Sat3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat1-1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat1-1.png
+      projectPath: Assets\Images\rocketScience\sat1-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat1-1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat1-1.png.meta
+      projectPath: Assets\Images\rocketScience\sat1-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat4-1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat4-1.png
+      projectPath: Assets\Images\rocketScience\sat4-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat4-1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat4-1.png.meta
+      projectPath: Assets\Images\rocketScience\sat4-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat5-1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat5-1.png
+      projectPath: Assets\Images\rocketScience\sat5-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat5-1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat5-1.png.meta
+      projectPath: Assets\Images\rocketScience\sat5-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat6-1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat6-1.png
+      projectPath: Assets\Images\rocketScience\sat6-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat6-1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat6-1.png.meta
+      projectPath: Assets\Images\rocketScience\sat6-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat7-1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat7-1.png
+      projectPath: Assets\Images\rocketScience\sat7-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat7-1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat7-1.png.meta
+      projectPath: Assets\Images\rocketScience\sat7-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat8-1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat8-1.png
+      projectPath: Assets\Images\rocketScience\sat8-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat8-1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat8-1.png.meta
+      projectPath: Assets\Images\rocketScience\sat8-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat9-1.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat9-1.png
+      projectPath: Assets\Images\rocketScience\sat9-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\sat9-1.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\sat9-1.png.meta
+      projectPath: Assets\Images\rocketScience\sat9-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\ss5 - Copy.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\ss5 - Copy.png
+      projectPath: Assets\Images\rocketScience\ss5 - Copy.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\ss5 - Copy.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\ss5 - Copy.png.meta
+      projectPath: Assets\Images\rocketScience\ss5 - Copy.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\ss5.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\ss5.png
+      projectPath: Assets\Images\rocketScience\ss5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\rocketScience\ss5.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Images\rocketScience\ss5.png.meta
+      projectPath: Assets\Images\rocketScience\ss5.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Black hole.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Black hole.mat
+      projectPath: Assets\Materials\Black hole.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Black hole.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Black hole.mat.meta
+      projectPath: Assets\Materials\Black hole.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\FontMat.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\FontMat.mat
+      projectPath: Assets\Materials\FontMat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\FontMat.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\FontMat.mat.meta
+      projectPath: Assets\Materials\FontMat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\LightweightRenderPipelineAsset.asset
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\LightweightRenderPipelineAsset.asset
+      projectPath: Assets\Materials\LightweightRenderPipelineAsset.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\LightweightRenderPipelineAsset.asset.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\LightweightRenderPipelineAsset.asset.meta
+      projectPath: Assets\Materials\LightweightRenderPipelineAsset.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects.meta
+      projectPath: Assets\Materials\Objects.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Black hole.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Black hole.mat
+      projectPath: Assets\Materials\Objects\Black hole.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Black hole.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Black hole.mat.meta
+      projectPath: Assets\Materials\Objects\Black hole.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Bluish.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Bluish.mat
+      projectPath: Assets\Materials\Objects\Bluish.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Bluish.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Bluish.mat.meta
+      projectPath: Assets\Materials\Objects\Bluish.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Brown 1.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Brown 1.mat
+      projectPath: Assets\Materials\Objects\Brown 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Brown 1.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Brown 1.mat.meta
+      projectPath: Assets\Materials\Objects\Brown 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Brown.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Brown.mat
+      projectPath: Assets\Materials\Objects\Brown.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Brown.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Brown.mat.meta
+      projectPath: Assets\Materials\Objects\Brown.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Cactus.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Cactus.mat
+      projectPath: Assets\Materials\Objects\Cactus.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Cactus.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Cactus.mat.meta
+      projectPath: Assets\Materials\Objects\Cactus.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 1.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 1.mat
+      projectPath: Assets\Materials\Objects\Crystal 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 1.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 1.mat.meta
+      projectPath: Assets\Materials\Objects\Crystal 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 2.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 2.mat
+      projectPath: Assets\Materials\Objects\Crystal 2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 2.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 2.mat.meta
+      projectPath: Assets\Materials\Objects\Crystal 2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 3.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 3.mat
+      projectPath: Assets\Materials\Objects\Crystal 3.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 3.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 3.mat.meta
+      projectPath: Assets\Materials\Objects\Crystal 3.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 4.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 4.mat
+      projectPath: Assets\Materials\Objects\Crystal 4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 4.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 4.mat.meta
+      projectPath: Assets\Materials\Objects\Crystal 4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 5.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 5.mat
+      projectPath: Assets\Materials\Objects\Crystal 5.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal 5.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal 5.mat.meta
+      projectPath: Assets\Materials\Objects\Crystal 5.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal.mat
+      projectPath: Assets\Materials\Objects\Crystal.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Crystal.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Crystal.mat.meta
+      projectPath: Assets\Materials\Objects\Crystal.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Desert.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Desert.mat
+      projectPath: Assets\Materials\Objects\Desert.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Desert.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Desert.mat.meta
+      projectPath: Assets\Materials\Objects\Desert.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Gold Foil.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Gold Foil.mat
+      projectPath: Assets\Materials\Objects\Gold Foil.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Gold Foil.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Gold Foil.mat.meta
+      projectPath: Assets\Materials\Objects\Gold Foil.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Gold.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Gold.mat
+      projectPath: Assets\Materials\Objects\Gold.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Gold.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Gold.mat.meta
+      projectPath: Assets\Materials\Objects\Gold.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Grey rock 1.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Grey rock 1.mat
+      projectPath: Assets\Materials\Objects\Grey rock 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Grey rock 1.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Grey rock 1.mat.meta
+      projectPath: Assets\Materials\Objects\Grey rock 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Grey rock.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Grey rock.mat
+      projectPath: Assets\Materials\Objects\Grey rock.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Grey rock.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Grey rock.mat.meta
+      projectPath: Assets\Materials\Objects\Grey rock.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Lava.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Lava.mat
+      projectPath: Assets\Materials\Objects\Lava.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Lava.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Lava.mat.meta
+      projectPath: Assets\Materials\Objects\Lava.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\LavaRock.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\LavaRock.mat
+      projectPath: Assets\Materials\Objects\LavaRock.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\LavaRock.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\LavaRock.mat.meta
+      projectPath: Assets\Materials\Objects\LavaRock.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Logo.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Logo.mat
+      projectPath: Assets\Materials\Objects\Logo.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Logo.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Logo.mat.meta
+      projectPath: Assets\Materials\Objects\Logo.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Ship Metal.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Ship Metal.mat
+      projectPath: Assets\Materials\Objects\Ship Metal.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Ship Metal.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Ship Metal.mat.meta
+      projectPath: Assets\Materials\Objects\Ship Metal.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Ship windows.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Ship windows.mat
+      projectPath: Assets\Materials\Objects\Ship windows.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Ship windows.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Ship windows.mat.meta
+      projectPath: Assets\Materials\Objects\Ship windows.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Solar panels.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Solar panels.mat
+      projectPath: Assets\Materials\Objects\Solar panels.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Solar panels.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Solar panels.mat.meta
+      projectPath: Assets\Materials\Objects\Solar panels.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Steel.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Steel.mat
+      projectPath: Assets\Materials\Objects\Steel.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Steel.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Steel.mat.meta
+      projectPath: Assets\Materials\Objects\Steel.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Super bluish.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Super bluish.mat
+      projectPath: Assets\Materials\Objects\Super bluish.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Super bluish.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Super bluish.mat.meta
+      projectPath: Assets\Materials\Objects\Super bluish.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Trees.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Trees.mat
+      projectPath: Assets\Materials\Objects\Trees.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Trees.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Trees.mat.meta
+      projectPath: Assets\Materials\Objects\Trees.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Water.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Water.mat
+      projectPath: Assets\Materials\Objects\Water.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Objects\Water.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Objects\Water.mat.meta
+      projectPath: Assets\Materials\Objects\Water.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Satellite trail 1.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Satellite trail 1.mat
+      projectPath: Assets\Materials\Satellite trail 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Satellite trail 1.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Satellite trail 1.mat.meta
+      projectPath: Assets\Materials\Satellite trail 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Satellite trail.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Satellite trail.mat
+      projectPath: Assets\Materials\Satellite trail.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Satellite trail.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Satellite trail.mat.meta
+      projectPath: Assets\Materials\Satellite trail.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox.meta
+      projectPath: Assets\Materials\Skybox.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Blank.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Blank.mat
+      projectPath: Assets\Materials\Skybox\Blank.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Blank.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Blank.mat.meta
+      projectPath: Assets\Materials\Skybox\Blank.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Classic.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Classic.mat
+      projectPath: Assets\Materials\Skybox\Classic.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Classic.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Classic.mat.meta
+      projectPath: Assets\Materials\Skybox\Classic.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Hourglass.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Hourglass.mat
+      projectPath: Assets\Materials\Skybox\Hourglass.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Hourglass.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Hourglass.mat.meta
+      projectPath: Assets\Materials\Skybox\Hourglass.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Moosehead.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Moosehead.mat
+      projectPath: Assets\Materials\Skybox\Moosehead.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Moosehead.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Moosehead.mat.meta
+      projectPath: Assets\Materials\Skybox\Moosehead.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Normal 1.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Normal 1.mat
+      projectPath: Assets\Materials\Skybox\Normal 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Normal 1.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Normal 1.mat.meta
+      projectPath: Assets\Materials\Skybox\Normal 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Normal.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Normal.mat
+      projectPath: Assets\Materials\Skybox\Normal.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Normal.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Normal.mat.meta
+      projectPath: Assets\Materials\Skybox\Normal.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Pure black.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Pure black.mat
+      projectPath: Assets\Materials\Skybox\Pure black.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Pure black.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Pure black.mat.meta
+      projectPath: Assets\Materials\Skybox\Pure black.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Red.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Red.mat
+      projectPath: Assets\Materials\Skybox\Red.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Skybox\Red.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\Skybox\Red.mat.meta
+      projectPath: Assets\Materials\Skybox\Red.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\TargetArea.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\TargetArea.mat
+      projectPath: Assets\Materials\TargetArea.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\TargetArea.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\TargetArea.mat.meta
+      projectPath: Assets\Materials\TargetArea.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\booster 1.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\booster 1.mat
+      projectPath: Assets\Materials\booster 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\booster 1.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\booster 1.mat.meta
+      projectPath: Assets\Materials\booster 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\booster.mat
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\booster.mat
+      projectPath: Assets\Materials\booster.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\booster.mat.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Materials\booster.mat.meta
+      projectPath: Assets\Materials\booster.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models.meta
+      projectPath: Assets\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\10Orbit Satellite.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\10Orbit Satellite.FBX
+      projectPath: Assets\Models\10Orbit Satellite.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\10Orbit Satellite.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\10Orbit Satellite.FBX.meta
+      projectPath: Assets\Models\10Orbit Satellite.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Asteroids.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Asteroids.FBX
+      projectPath: Assets\Models\Asteroids.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Asteroids.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Asteroids.FBX.meta
+      projectPath: Assets\Models\Asteroids.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Cratered_Large.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Cratered_Large.FBX
+      projectPath: Assets\Models\Cratered_Large.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Cratered_Large.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Cratered_Large.FBX.meta
+      projectPath: Assets\Models\Cratered_Large.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Cratered_Small.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Cratered_Small.FBX
+      projectPath: Assets\Models\Cratered_Small.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Cratered_Small.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Cratered_Small.FBX.meta
+      projectPath: Assets\Models\Cratered_Small.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Crystal.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Crystal.FBX
+      projectPath: Assets\Models\Crystal.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Crystal.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Crystal.FBX.meta
+      projectPath: Assets\Models\Crystal.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Desert Planet.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Desert Planet.FBX
+      projectPath: Assets\Models\Desert Planet.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Desert Planet.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Desert Planet.FBX.meta
+      projectPath: Assets\Models\Desert Planet.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny crater planet.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny crater planet.FBX
+      projectPath: Assets\Models\Funny crater planet.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny crater planet.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny crater planet.FBX.meta
+      projectPath: Assets\Models\Funny crater planet.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny crystal planet.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny crystal planet.FBX
+      projectPath: Assets\Models\Funny crystal planet.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny crystal planet.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny crystal planet.FBX.meta
+      projectPath: Assets\Models\Funny crystal planet.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny diamond planet.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny diamond planet.FBX
+      projectPath: Assets\Models\Funny diamond planet.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny diamond planet.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny diamond planet.FBX.meta
+      projectPath: Assets\Models\Funny diamond planet.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny earth planet.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny earth planet.FBX
+      projectPath: Assets\Models\Funny earth planet.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny earth planet.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny earth planet.FBX.meta
+      projectPath: Assets\Models\Funny earth planet.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny gas giant.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny gas giant.FBX
+      projectPath: Assets\Models\Funny gas giant.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny gas giant.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny gas giant.FBX.meta
+      projectPath: Assets\Models\Funny gas giant.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny lava planet.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny lava planet.FBX
+      projectPath: Assets\Models\Funny lava planet.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny lava planet.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny lava planet.FBX.meta
+      projectPath: Assets\Models\Funny lava planet.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny pirate planet.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny pirate planet.FBX
+      projectPath: Assets\Models\Funny pirate planet.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Funny pirate planet.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Funny pirate planet.FBX.meta
+      projectPath: Assets\Models\Funny pirate planet.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Old plane.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Old plane.FBX
+      projectPath: Assets\Models\Old plane.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Old plane.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Old plane.FBX.meta
+      projectPath: Assets\Models\Old plane.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Orbit circle 3.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Orbit circle 3.FBX
+      projectPath: Assets\Models\Orbit circle 3.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Orbit circle 3.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Orbit circle 3.FBX.meta
+      projectPath: Assets\Models\Orbit circle 3.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Plane.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Plane.FBX
+      projectPath: Assets\Models\Plane.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Plane.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Plane.FBX.meta
+      projectPath: Assets\Models\Plane.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Rough_sphere.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Rough_sphere.FBX
+      projectPath: Assets\Models\Rough_sphere.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Rough_sphere.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Rough_sphere.FBX.meta
+      projectPath: Assets\Models\Rough_sphere.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Satellite.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Satellite.FBX
+      projectPath: Assets\Models\Satellite.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Satellite.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\Satellite.FBX.meta
+      projectPath: Assets\Models\Satellite.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\TargetEllipses.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\TargetEllipses.FBX
+      projectPath: Assets\Models\TargetEllipses.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\TargetEllipses.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\TargetEllipses.FBX.meta
+      projectPath: Assets\Models\TargetEllipses.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\TargetRings.FBX
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\TargetRings.FBX
+      projectPath: Assets\Models\TargetRings.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\TargetRings.FBX.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Models\TargetRings.FBX.meta
+      projectPath: Assets\Models\TargetRings.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\Android.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\Android.meta
+      projectPath: Assets\Plugins\Android.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\Android\mainTemplate.gradle.DISABLED
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\Android\mainTemplate.gradle.DISABLED
+      projectPath: Assets\Plugins\Android\mainTemplate.gradle.DISABLED
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\Android\mainTemplate.gradle.DISABLED.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\Android\mainTemplate.gradle.DISABLED.meta
+      projectPath: Assets\Plugins\Android\mainTemplate.gradle.DISABLED.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Cameras.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Cameras.meta
+      projectPath: Assets\Prefabs\Cameras.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Cameras\MainCam.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Cameras\MainCam.prefab
+      projectPath: Assets\Prefabs\Cameras\MainCam.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Cameras\MainCam.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Cameras\MainCam.prefab.meta
+      projectPath: Assets\Prefabs\Cameras\MainCam.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Canvas.meta
+      projectPath: Assets\Prefabs\Canvas.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas\GamePlayCanvas.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Canvas\GamePlayCanvas.prefab
+      projectPath: Assets\Prefabs\Canvas\GamePlayCanvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas\GamePlayCanvas.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Canvas\GamePlayCanvas.prefab.meta
+      projectPath: Assets\Prefabs\Canvas\GamePlayCanvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas\NEW TitleScreen Canvas.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Canvas\NEW TitleScreen Canvas.prefab
+      projectPath: Assets\Prefabs\Canvas\NEW TitleScreen Canvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas\NEW TitleScreen Canvas.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Canvas\NEW TitleScreen Canvas.prefab.meta
+      projectPath: Assets\Prefabs\Canvas\NEW TitleScreen Canvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas\TitleScreen Canvas.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Canvas\TitleScreen Canvas.prefab
+      projectPath: Assets\Prefabs\Canvas\TitleScreen Canvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Canvas\TitleScreen Canvas.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Canvas\TitleScreen Canvas.prefab.meta
+      projectPath: Assets\Prefabs\Canvas\TitleScreen Canvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers.meta
+      projectPath: Assets\Prefabs\Controllers.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\Initialiser.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\Initialiser.prefab
+      projectPath: Assets\Prefabs\Controllers\Initialiser.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\Initialiser.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\Initialiser.prefab.meta
+      projectPath: Assets\Prefabs\Controllers\Initialiser.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\PrefabList.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\PrefabList.prefab
+      projectPath: Assets\Prefabs\Controllers\PrefabList.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\PrefabList.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\PrefabList.prefab.meta
+      projectPath: Assets\Prefabs\Controllers\PrefabList.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\Settings.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\Settings.prefab
+      projectPath: Assets\Prefabs\Controllers\Settings.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\Settings.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\Settings.prefab.meta
+      projectPath: Assets\Prefabs\Controllers\Settings.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\SpeedController.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\SpeedController.prefab
+      projectPath: Assets\Prefabs\Controllers\SpeedController.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\SpeedController.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\SpeedController.prefab.meta
+      projectPath: Assets\Prefabs\Controllers\SpeedController.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\TutorialController.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\TutorialController.prefab
+      projectPath: Assets\Prefabs\Controllers\TutorialController.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\TutorialController.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\TutorialController.prefab.meta
+      projectPath: Assets\Prefabs\Controllers\TutorialController.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\UIlist.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\UIlist.prefab
+      projectPath: Assets\Prefabs\Controllers\UIlist.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Controllers\UIlist.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Controllers\UIlist.prefab.meta
+      projectPath: Assets\Prefabs\Controllers\UIlist.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Explosion.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Explosion.prefab
+      projectPath: Assets\Prefabs\Explosion.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Explosion.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Explosion.prefab.meta
+      projectPath: Assets\Prefabs\Explosion.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LaunchRing.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\LaunchRing.prefab
+      projectPath: Assets\Prefabs\LaunchRing.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\LaunchRing.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\LaunchRing.prefab.meta
+      projectPath: Assets\Prefabs\LaunchRing.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies.meta
+      projectPath: Assets\Prefabs\PlanetBodies.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Cratered_Large.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Cratered_Large.prefab
+      projectPath: Assets\Prefabs\PlanetBodies\Cratered_Large.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Cratered_Large.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Cratered_Large.prefab.meta
+      projectPath: Assets\Prefabs\PlanetBodies\Cratered_Large.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Crystal.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Crystal.prefab
+      projectPath: Assets\Prefabs\PlanetBodies\Crystal.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Crystal.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Crystal.prefab.meta
+      projectPath: Assets\Prefabs\PlanetBodies\Crystal.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Desert Planet.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Desert Planet.prefab
+      projectPath: Assets\Prefabs\PlanetBodies\Desert Planet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Desert Planet.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Desert Planet.prefab.meta
+      projectPath: Assets\Prefabs\PlanetBodies\Desert Planet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Funny crater planet (1).prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Funny crater planet
+        (1).prefab
+      projectPath: Assets\Prefabs\PlanetBodies\Funny crater planet (1).prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Funny crater planet (1).prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Funny crater planet
+        (1).prefab.meta
+      projectPath: Assets\Prefabs\PlanetBodies\Funny crater planet (1).prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Funny earth planet.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Funny earth planet.prefab
+      projectPath: Assets\Prefabs\PlanetBodies\Funny earth planet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Funny earth planet.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Funny earth planet.prefab.meta
+      projectPath: Assets\Prefabs\PlanetBodies\Funny earth planet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Funny lava planet.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Funny lava planet.prefab
+      projectPath: Assets\Prefabs\PlanetBodies\Funny lava planet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PlanetBodies\Funny lava planet.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\PlanetBodies\Funny lava planet.prefab.meta
+      projectPath: Assets\Prefabs\PlanetBodies\Funny lava planet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Scene Objects.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Scene Objects.meta
+      projectPath: Assets\Prefabs\Scene Objects.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Scene Objects\Plane.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Scene Objects\Plane.prefab
+      projectPath: Assets\Prefabs\Scene Objects\Plane.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Scene Objects\Plane.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Scene Objects\Plane.prefab.meta
+      projectPath: Assets\Prefabs\Scene Objects\Plane.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Scene Objects\Planet.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Scene Objects\Planet.prefab
+      projectPath: Assets\Prefabs\Scene Objects\Planet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Scene Objects\Planet.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Scene Objects\Planet.prefab.meta
+      projectPath: Assets\Prefabs\Scene Objects\Planet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Scene Objects\Satellite.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Scene Objects\Satellite.prefab
+      projectPath: Assets\Prefabs\Scene Objects\Satellite.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Scene Objects\Satellite.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Scene Objects\Satellite.prefab.meta
+      projectPath: Assets\Prefabs\Scene Objects\Satellite.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons.meta
+      projectPath: Assets\Prefabs\Skeletons.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\GamplaySkeleton.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\GamplaySkeleton.prefab
+      projectPath: Assets\Prefabs\Skeletons\GamplaySkeleton.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\GamplaySkeleton.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\GamplaySkeleton.prefab.meta
+      projectPath: Assets\Prefabs\Skeletons\GamplaySkeleton.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\Levelscreen skeleton.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\Levelscreen skeleton.prefab
+      projectPath: Assets\Prefabs\Skeletons\Levelscreen skeleton.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\Levelscreen skeleton.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\Levelscreen skeleton.prefab.meta
+      projectPath: Assets\Prefabs\Skeletons\Levelscreen skeleton.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\NEW TitleScreen Skeleton.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\NEW TitleScreen Skeleton.prefab
+      projectPath: Assets\Prefabs\Skeletons\NEW TitleScreen Skeleton.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\NEW TitleScreen Skeleton.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\NEW TitleScreen Skeleton.prefab.meta
+      projectPath: Assets\Prefabs\Skeletons\NEW TitleScreen Skeleton.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\TitleScreen Skeleton.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\TitleScreen Skeleton.prefab
+      projectPath: Assets\Prefabs\Skeletons\TitleScreen Skeleton.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Skeletons\TitleScreen Skeleton.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\Skeletons\TitleScreen Skeleton.prefab.meta
+      projectPath: Assets\Prefabs\Skeletons\TitleScreen Skeleton.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings.meta
+      projectPath: Assets\Prefabs\TargetRings.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Orbit circle 3.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Orbit circle
+        3.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Orbit circle 3.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Orbit circle 3.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Orbit circle
+        3.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Orbit circle 3.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin1.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin1.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin1.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin1.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin2.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin2.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin2.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin2.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin3.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin3.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin3.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin3.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin3.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin3.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin4.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin4.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin4.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin4.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin4.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin4.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin5.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin5.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin5.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin5.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin5.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin5.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin6.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin6.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin6.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin6.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin6.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin6.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin7.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin7.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin7.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin7.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin7.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin7.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin8-filled.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin8-filled.prefab
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin8-filled.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Circles\Thin8-filled.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Circles\Thin8-filled.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Circles\Thin8-filled.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x2.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x2.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x2.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x2.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x2t.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x2t.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x2t.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x2t.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x2t.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x2t.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x3.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x3.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x3.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x3.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x3.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x3.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x3t.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x3t.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x3t.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\1x3t.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\1x3t.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\1x3t.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\4x5.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\4x5.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\4x5.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\4x5.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\4x5.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\4x5.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\4x5t.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\4x5t.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\4x5t.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\4x5t.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\4x5t.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\4x5t.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\5x7 t.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\5x7 t.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\5x7 t.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\5x7 t.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\5x7 t.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\5x7 t.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\5x7.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\5x7.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\5x7.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\5x7.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\5x7.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\5x7.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\9x10 - t.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\9x10 -
+        t.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\9x10 - t.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\9x10 - t.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\9x10 -
+        t.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\9x10 - t.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\9x10.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\9x10.prefab
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\9x10.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\TargetRings\Ellipses\9x10.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\TargetRings\Ellipses\9x10.prefab.meta
+      projectPath: Assets\Prefabs\TargetRings\Ellipses\9x10.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\UI.meta
+      projectPath: Assets\Prefabs\UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI\Level set prefab.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\UI\Level set prefab.prefab
+      projectPath: Assets\Prefabs\UI\Level set prefab.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI\Level set prefab.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\UI\Level set prefab.prefab.meta
+      projectPath: Assets\Prefabs\UI\Level set prefab.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI\LevelButton.prefab
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\UI\LevelButton.prefab
+      projectPath: Assets\Prefabs\UI\LevelButton.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\UI\LevelButton.prefab.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Prefabs\UI\LevelButton.prefab.meta
+      projectPath: Assets\Prefabs\UI\LevelButton.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels.meta
+      projectPath: Assets\Scenes\Levels.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\1.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\1.unity
+      projectPath: Assets\Scenes\Levels\1.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\1.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\1.unity.meta
+      projectPath: Assets\Scenes\Levels\1.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\10.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\10.unity
+      projectPath: Assets\Scenes\Levels\10.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\10.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\10.unity.meta
+      projectPath: Assets\Scenes\Levels\10.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\11.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\11.unity
+      projectPath: Assets\Scenes\Levels\11.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\11.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\11.unity.meta
+      projectPath: Assets\Scenes\Levels\11.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\12.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\12.unity
+      projectPath: Assets\Scenes\Levels\12.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\12.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\12.unity.meta
+      projectPath: Assets\Scenes\Levels\12.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\13.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\13.unity
+      projectPath: Assets\Scenes\Levels\13.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\13.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\13.unity.meta
+      projectPath: Assets\Scenes\Levels\13.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\14.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\14.unity
+      projectPath: Assets\Scenes\Levels\14.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\14.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\14.unity.meta
+      projectPath: Assets\Scenes\Levels\14.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\15.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\15.unity
+      projectPath: Assets\Scenes\Levels\15.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\15.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\15.unity.meta
+      projectPath: Assets\Scenes\Levels\15.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\16.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\16.unity
+      projectPath: Assets\Scenes\Levels\16.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\16.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\16.unity.meta
+      projectPath: Assets\Scenes\Levels\16.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\17.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\17.unity
+      projectPath: Assets\Scenes\Levels\17.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\17.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\17.unity.meta
+      projectPath: Assets\Scenes\Levels\17.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\18.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\18.unity
+      projectPath: Assets\Scenes\Levels\18.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\18.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\18.unity.meta
+      projectPath: Assets\Scenes\Levels\18.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\19.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\19.unity
+      projectPath: Assets\Scenes\Levels\19.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\19.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\19.unity.meta
+      projectPath: Assets\Scenes\Levels\19.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\2.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\2.unity
+      projectPath: Assets\Scenes\Levels\2.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\2.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\2.unity.meta
+      projectPath: Assets\Scenes\Levels\2.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\20.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\20.unity
+      projectPath: Assets\Scenes\Levels\20.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\20.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\20.unity.meta
+      projectPath: Assets\Scenes\Levels\20.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\21.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\21.unity
+      projectPath: Assets\Scenes\Levels\21.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\21.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\21.unity.meta
+      projectPath: Assets\Scenes\Levels\21.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\22.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\22.unity
+      projectPath: Assets\Scenes\Levels\22.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\22.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\22.unity.meta
+      projectPath: Assets\Scenes\Levels\22.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\23.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\23.unity
+      projectPath: Assets\Scenes\Levels\23.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\23.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\23.unity.meta
+      projectPath: Assets\Scenes\Levels\23.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\24.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\24.unity
+      projectPath: Assets\Scenes\Levels\24.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\24.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\24.unity.meta
+      projectPath: Assets\Scenes\Levels\24.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\25.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\25.unity
+      projectPath: Assets\Scenes\Levels\25.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\25.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\25.unity.meta
+      projectPath: Assets\Scenes\Levels\25.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\26.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\26.unity
+      projectPath: Assets\Scenes\Levels\26.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\26.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\26.unity.meta
+      projectPath: Assets\Scenes\Levels\26.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\27.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\27.unity
+      projectPath: Assets\Scenes\Levels\27.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\27.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\27.unity.meta
+      projectPath: Assets\Scenes\Levels\27.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\28.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\28.unity
+      projectPath: Assets\Scenes\Levels\28.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\28.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\28.unity.meta
+      projectPath: Assets\Scenes\Levels\28.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\29.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\29.unity
+      projectPath: Assets\Scenes\Levels\29.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\29.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\29.unity.meta
+      projectPath: Assets\Scenes\Levels\29.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\3.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\3.unity
+      projectPath: Assets\Scenes\Levels\3.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\3.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\3.unity.meta
+      projectPath: Assets\Scenes\Levels\3.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\30.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\30.unity
+      projectPath: Assets\Scenes\Levels\30.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\30.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\30.unity.meta
+      projectPath: Assets\Scenes\Levels\30.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\31.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\31.unity
+      projectPath: Assets\Scenes\Levels\31.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\31.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\31.unity.meta
+      projectPath: Assets\Scenes\Levels\31.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\32.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\32.unity
+      projectPath: Assets\Scenes\Levels\32.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\32.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\32.unity.meta
+      projectPath: Assets\Scenes\Levels\32.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\33.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\33.unity
+      projectPath: Assets\Scenes\Levels\33.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\33.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\33.unity.meta
+      projectPath: Assets\Scenes\Levels\33.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\34.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\34.unity
+      projectPath: Assets\Scenes\Levels\34.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\34.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\34.unity.meta
+      projectPath: Assets\Scenes\Levels\34.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\35.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\35.unity
+      projectPath: Assets\Scenes\Levels\35.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\35.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\35.unity.meta
+      projectPath: Assets\Scenes\Levels\35.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\36.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\36.unity
+      projectPath: Assets\Scenes\Levels\36.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\36.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\36.unity.meta
+      projectPath: Assets\Scenes\Levels\36.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\37.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\37.unity
+      projectPath: Assets\Scenes\Levels\37.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\37.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\37.unity.meta
+      projectPath: Assets\Scenes\Levels\37.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\38.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\38.unity
+      projectPath: Assets\Scenes\Levels\38.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\38.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\38.unity.meta
+      projectPath: Assets\Scenes\Levels\38.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\39.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\39.unity
+      projectPath: Assets\Scenes\Levels\39.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\39.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\39.unity.meta
+      projectPath: Assets\Scenes\Levels\39.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\4.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\4.unity
+      projectPath: Assets\Scenes\Levels\4.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\4.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\4.unity.meta
+      projectPath: Assets\Scenes\Levels\4.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\40.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\40.unity
+      projectPath: Assets\Scenes\Levels\40.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\40.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\40.unity.meta
+      projectPath: Assets\Scenes\Levels\40.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\41.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\41.unity
+      projectPath: Assets\Scenes\Levels\41.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\41.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\41.unity.meta
+      projectPath: Assets\Scenes\Levels\41.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\42.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\42.unity
+      projectPath: Assets\Scenes\Levels\42.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\42.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\42.unity.meta
+      projectPath: Assets\Scenes\Levels\42.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\43.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\43.unity
+      projectPath: Assets\Scenes\Levels\43.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\43.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\43.unity.meta
+      projectPath: Assets\Scenes\Levels\43.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\44.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\44.unity
+      projectPath: Assets\Scenes\Levels\44.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\44.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\44.unity.meta
+      projectPath: Assets\Scenes\Levels\44.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\45.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\45.unity
+      projectPath: Assets\Scenes\Levels\45.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\45.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\45.unity.meta
+      projectPath: Assets\Scenes\Levels\45.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\5.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\5.unity
+      projectPath: Assets\Scenes\Levels\5.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\5.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\5.unity.meta
+      projectPath: Assets\Scenes\Levels\5.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\6.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\6.unity
+      projectPath: Assets\Scenes\Levels\6.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\6.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\6.unity.meta
+      projectPath: Assets\Scenes\Levels\6.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\7.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\7.unity
+      projectPath: Assets\Scenes\Levels\7.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\7.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\7.unity.meta
+      projectPath: Assets\Scenes\Levels\7.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\8.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\8.unity
+      projectPath: Assets\Scenes\Levels\8.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\8.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\8.unity.meta
+      projectPath: Assets\Scenes\Levels\8.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\9.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\9.unity
+      projectPath: Assets\Scenes\Levels\9.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Levels\9.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Levels\9.unity.meta
+      projectPath: Assets\Scenes\Levels\9.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Main.meta
+      projectPath: Assets\Scenes\Main.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main\Credits.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Main\Credits.unity
+      projectPath: Assets\Scenes\Main\Credits.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main\Credits.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Main\Credits.unity.meta
+      projectPath: Assets\Scenes\Main\Credits.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main\Levels.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Main\Levels.unity
+      projectPath: Assets\Scenes\Main\Levels.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main\Levels.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Main\Levels.unity.meta
+      projectPath: Assets\Scenes\Main\Levels.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main\Title.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Main\Title.unity
+      projectPath: Assets\Scenes\Main\Title.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Main\Title.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\Main\Title.unity.meta
+      projectPath: Assets\Scenes\Main\Title.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Explosion.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Explosion.cs
+      projectPath: Assets\Scripts\Explosion.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Explosion.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Explosion.cs.meta
+      projectPath: Assets\Scripts\Explosion.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Flashing.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Flashing.cs
+      projectPath: Assets\Scripts\Flashing.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Flashing.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Flashing.cs.meta
+      projectPath: Assets\Scripts\Flashing.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Forces.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Forces.cs
+      projectPath: Assets\Scripts\Forces.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Forces.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Forces.cs.meta
+      projectPath: Assets\Scripts\Forces.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Game.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Game.cs
+      projectPath: Assets\Scripts\Game.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Game.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Game.cs.meta
+      projectPath: Assets\Scripts\Game.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Initialiser.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Initialiser.cs
+      projectPath: Assets\Scripts\Initialiser.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Initialiser.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Initialiser.cs.meta
+      projectPath: Assets\Scripts\Initialiser.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LaunchRing.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LaunchRing.cs
+      projectPath: Assets\Scripts\LaunchRing.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LaunchRing.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LaunchRing.cs.meta
+      projectPath: Assets\Scripts\LaunchRing.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelSetProperties.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LevelSetProperties.cs
+      projectPath: Assets\Scripts\LevelSetProperties.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelSetProperties.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LevelSetProperties.cs.meta
+      projectPath: Assets\Scripts\LevelSetProperties.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelscreenController.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LevelscreenController.cs
+      projectPath: Assets\Scripts\LevelscreenController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelscreenController.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LevelscreenController.cs.meta
+      projectPath: Assets\Scripts\LevelscreenController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LwrpHalo.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LwrpHalo.cs
+      projectPath: Assets\Scripts\LwrpHalo.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LwrpHalo.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\LwrpHalo.cs.meta
+      projectPath: Assets\Scripts\LwrpHalo.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainController.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\MainController.cs
+      projectPath: Assets\Scripts\MainController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainController.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\MainController.cs.meta
+      projectPath: Assets\Scripts\MainController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Non-gameplay scenes.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Non-gameplay scenes.meta
+      projectPath: Assets\Scripts\Non-gameplay scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Non-gameplay scenes\TitleScreenController.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Non-gameplay scenes\TitleScreenController.cs
+      projectPath: Assets\Scripts\Non-gameplay scenes\TitleScreenController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Non-gameplay scenes\TitleScreenController.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Non-gameplay scenes\TitleScreenController.cs.meta
+      projectPath: Assets\Scripts\Non-gameplay scenes\TitleScreenController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PrefabList.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\PrefabList.cs
+      projectPath: Assets\Scripts\PrefabList.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PrefabList.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\PrefabList.cs.meta
+      projectPath: Assets\Scripts\PrefabList.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SatelliteProperties.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SatelliteProperties.cs
+      projectPath: Assets\Scripts\SatelliteProperties.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SatelliteProperties.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SatelliteProperties.cs.meta
+      projectPath: Assets\Scripts\SatelliteProperties.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneController.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SceneController.cs
+      projectPath: Assets\Scripts\SceneController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneController.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SceneController.cs.meta
+      projectPath: Assets\Scripts\SceneController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Settings.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Settings.cs
+      projectPath: Assets\Scripts\Settings.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Settings.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Settings.cs.meta
+      projectPath: Assets\Scripts\Settings.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SimpleRotation.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SimpleRotation.cs
+      projectPath: Assets\Scripts\SimpleRotation.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SimpleRotation.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SimpleRotation.cs.meta
+      projectPath: Assets\Scripts\SimpleRotation.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SpeedController.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SpeedController.cs
+      projectPath: Assets\Scripts\SpeedController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SpeedController.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\SpeedController.cs.meta
+      projectPath: Assets\Scripts\SpeedController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Storage.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Storage.cs
+      projectPath: Assets\Scripts\Storage.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Storage.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\Storage.cs.meta
+      projectPath: Assets\Scripts\Storage.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TitleImageScaler.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\TitleImageScaler.cs
+      projectPath: Assets\Scripts\TitleImageScaler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TitleImageScaler.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\TitleImageScaler.cs.meta
+      projectPath: Assets\Scripts\TitleImageScaler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TutorialController.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\TutorialController.cs
+      projectPath: Assets\Scripts\TutorialController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TutorialController.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\TutorialController.cs.meta
+      projectPath: Assets\Scripts\TutorialController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UIController.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\UIController.cs
+      projectPath: Assets\Scripts\UIController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UIController.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\UIController.cs.meta
+      projectPath: Assets\Scripts\UIController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UIlist.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\UIlist.cs
+      projectPath: Assets\Scripts\UIlist.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UIlist.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\UIlist.cs.meta
+      projectPath: Assets\Scripts\UIlist.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\cameraMovement.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\cameraMovement.cs
+      projectPath: Assets\Scripts\cameraMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\cameraMovement.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\cameraMovement.cs.meta
+      projectPath: Assets\Scripts\cameraMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\planetProperties.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\planetProperties.cs
+      projectPath: Assets\Scripts\planetProperties.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\planetProperties.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\planetProperties.cs.meta
+      projectPath: Assets\Scripts\planetProperties.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\satellitePhysics.cs
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\satellitePhysics.cs
+      projectPath: Assets\Scripts\satellitePhysics.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\satellitePhysics.cs.meta
+      fullPath: D:\Docs\Unity\10-Orbits\Assets\Scripts\satellitePhysics.cs.meta
+      projectPath: Assets\Scripts\satellitePhysics.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: a41f3cd47c1a93d6b84aa6f3d2d714da57347205
+    mergeA: 
+    mergeB: 
+    authorName: Kushal
+    authorEmail: kushal-shrestha@hotmail.com
+    commitEmail: kushal-shrestha@hotmail.com
+    commitName: Kushal
+    summary: ' p1'
+    description: Game Done!
+    timeString: 2020-05-13T18:31:02.000+05:45
+    commitTimeString: 2020-05-13T18:31:02.000+05:45
+    changes:
+    - path: .collabignore
+      fullPath: D:\Docs\Unity\10-Orbits\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\10-Orbits\v16\.suo
+      fullPath: D:\Docs\Unity\10-Orbits\.vs\10-Orbits\v16\.suo
+      projectPath: .vs\10-Orbits\v16\.suo
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\10-Orbits\v16\Browse.VC.db
+      fullPath: D:\Docs\Unity\10-Orbits\.vs\10-Orbits\v16\Browse.VC.db
+      projectPath: .vs\10-Orbits\v16\Browse.VC.db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 10-Orbits.sln
+      fullPath: D:\Docs\Unity\10-Orbits\10-Orbits.sln
+      projectPath: 10-Orbits.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: D:\Docs\Unity\10-Orbits\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\Docs\Unity\10-Orbits\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: da16f9b894aca5a1a20f2f9372d9905027549825
+    mergeA: 
+    mergeB: 
+    authorName: FluxO4
+    authorEmail: 46083008+FluxO4@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-13T12:59:18.000+01:00
+    commitTimeString: 2020-05-13T12:59:18.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Docs\Unity\10-Orbits\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: D:\Docs\Unity\10-Orbits\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
