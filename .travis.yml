@@ -15,6 +15,9 @@ before_script:
 - chmod +x ./ci/docker_build.sh && chmod +x ./ci/build.sh && chmod +x ./ci/before_script.sh
   && chmod +x ./ci/get_license.sh
 script:
+- chmod +x ci/webhook_send.sh
+- "./ci/webhook_send.sh started $WEBHOOK_URL"
+
 - export BUILD_TARGET=StandaloneWindows64; export IMAGE_NAME=${BASE_IMAGE_NAME}-windows;
   ./ci/docker_build.sh
 #- export BUILD_APP_BUNDLE=false;

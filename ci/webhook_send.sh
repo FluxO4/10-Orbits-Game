@@ -19,6 +19,12 @@ case $1 in
     AVATAR="https://travis-ci.org/images/logos/TravisCI-Mascot-red.png"
     ;;
 
+  "started" )
+    EMBED_COLOR=12370112
+    STATUS_MESSAGE="Started"
+    AVATAR="https://conceptdraw.com/a1718c3/p1/preview/640/pict--start-project-project-management---vector-stencils-library.png--diagram-flowchart-example.png"
+    ;;
+
   * )
     EMBED_COLOR=0
     STATUS_MESSAGE="Status Unknown"
