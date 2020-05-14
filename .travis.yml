@@ -3,7 +3,7 @@ language: bash
 env:
   global:
   - BASE_IMAGE_NAME=gableroux/unity3d:2019.2.5f1
-  - BUILD_NAME=Virush
+  - BUILD_NAME=10Orbits
 services:
 - docker
 before_install:
