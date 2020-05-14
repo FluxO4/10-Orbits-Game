@@ -17,10 +17,10 @@ before_script:
 script:
 - export BUILD_TARGET=StandaloneWindows64; export IMAGE_NAME=${BASE_IMAGE_NAME}-windows;
   ./ci/docker_build.sh
-- export BUILD_APP_BUNDLE=false;
+#- export BUILD_APP_BUNDLE=false;
 - export BUILD_TARGET=Android; export IMAGE_NAME=${BASE_IMAGE_NAME}-android; ./ci/docker_build.sh
-- export BUILD_APP_BUNDLE=true;
-- export BUILD_TARGET=Android; export IMAGE_NAME=${BASE_IMAGE_NAME}-android; ./ci/docker_build.sh
+#- export BUILD_APP_BUNDLE=true;
+#- export BUILD_TARGET=Android; export IMAGE_NAME=${BASE_IMAGE_NAME}-android; ./ci/docker_build.sh
 before_deploy:
 - zip -r windows "./Builds/StandaloneWindows64/"
 - export COMMIT_MESSAGE_INFO="$(git log -1 "$TRAVIS_COMMIT" --pretty="%s")"
