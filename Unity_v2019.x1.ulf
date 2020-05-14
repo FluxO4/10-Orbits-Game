@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="cd40a02120fc41ba8ea3e122059c1e74"/>
+            <Binding Key="2" Value="cd40a02120fc41ba8ea3e122059c1e74"/>
+        </MachineBindings>
+        <MachineID Value="EURYBD5bQH+McuQWudEMsGFjePI="/>
+        <SerialHash Value="38c40e05c6f5b32f5a5282fe02ef42fa28739e30"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LVZXR0UtRFlIUy1TQ01DLVVBOFQtOUdTUA=="/>
+        <SerialMasked Value="F4-VWGE-DYHS-SCMC-UA8T-XXXX"/>
+        <StartDate Value="2018-06-09T00:00:00"/>
+        <UpdateDate Value="2019-11-05T11:22:55"/>
+        <InitialActivationDate Value="2018-06-09T11:37:36"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2019.2.5f1"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>DLnDQ9DpTlXv28qiiGdFX1rLGU8=</DigestValue></Reference></SignedInfo><SignatureValue>glw+rn3b51E3fAK7sshx1v7bnXesThPYaJ2R46jIY/ALwMOLr2zKkp4h7VQ7L/mR60eiiOvhYHWk
+j4rK2kdvRbh8yrn1QrL/eYgZPuwn+5o/WEBkzSwxM4b9gNNXkFM0FfvycuudW2vxQ93yHFgZOVnL
+26/AzVtRP7mOWmdiXCahfXkRYWV3LOyRf7LtmgHBYvBjLmiDI47qJV52rYmmRcfqm6vYb7BzER5K
+G2xMg8dJ/InXy7Zn5JvgskhIs6y/v7xjzp8xxbr3Zrm4C8RrdRFvzRq1H/XvLYQsYR8XBbdYfxnz
+KfwPFTbWLH8nV3pTmQyTifTw62+X4HwrX4rtbA==</SignatureValue></Signature></root>
