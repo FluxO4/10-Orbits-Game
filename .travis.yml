@@ -25,6 +25,12 @@ script:
 #- export BUILD_APP_BUNDLE=true;
 #- export BUILD_TARGET=Android; export IMAGE_NAME=${BASE_IMAGE_NAME}-android; ./ci/docker_build.sh
 before_deploy:
+#Set up git user name and tag this commit
+- git config --local user.name "Kuu44"
+- git config --local user.email "kushal-shrestha@hotmail.com"
+- export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
+- git tag $TRAVIS_TAG
+
 - zip -r windows "./Builds/StandaloneWindows64/"
 - export COMMIT_MESSAGE_INFO="$(git log -1 "$TRAVIS_COMMIT" --pretty="%s")"
 - export COMMIT_AUTHOR_INFO="$(git log -1 "$TRAVIS_COMMIT" --pretty="%cN")"
@@ -37,7 +43,9 @@ deploy:
   - windows.zip
   - "./Builds/Android/${BUILD_NAME}.apk"
   skip_cleanup: true
-  draft: true
+  overwrite: true
+  on:
+    tags: true
 after_success:
 - chmod +x ci/webhook_send.sh
 - "./ci/webhook_send.sh success $WEBHOOK_URL"
