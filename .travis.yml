@@ -43,7 +43,6 @@ deploy:
   - windows.zip
   - "./Builds/Android/${BUILD_NAME}.apk"
   skip_cleanup: true
-  overwrite: true
   draft: true
 after_success:
 - chmod +x ci/webhook_send.sh
