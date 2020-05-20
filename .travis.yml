@@ -23,8 +23,8 @@ script:
 
 before_deploy:
 #Set up git user name and tag this commit
-- git config --local user.name "Kuu44"
-- git config --local user.email "kushal-shrestha@hotmail.com"
+- git config --local user.name "Flux_O4"
+- git config --local user.email "robjmes1999@gmail.com"
 - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
 - git tag $TRAVIS_TAG
 
